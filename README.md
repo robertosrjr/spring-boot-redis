@@ -8,9 +8,9 @@ Projeto Simples que configura um microservico ao Redis (com alta disponibilidade
       -  https://github.com/robertosrjr/storages/tree/main/redis
 
 Ref.:
-- (Spring Boot)[https://spring.io/projects/spring-boot]
-- (Redis)[https://redis.io/]
-- (Lettuce)[https://lettuce.io/core/release/reference/]
+- [Spring Boot](https://spring.io/projects/spring-boot);
+- [Redis][https://redis.io/);
+- [Lettuce][https://lettuce.io/core/release/reference/);
 - Spring Data
-  - (Spring Data Redis)[https://docs.spring.io/spring-data/data-redis/docs/current/reference/html]
+  - [Spring Data Redis](https://docs.spring.io/spring-data/data-redis/docs/current/reference/html);
   
